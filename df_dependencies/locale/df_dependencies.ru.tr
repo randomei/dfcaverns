@@ -3,23 +3,23 @@
 
 ### fireflies.lua ###
 
-Bug Net=Сачок Для Ловли Насекомых
+Bug Net=сачок
 # textdomain: fireflies
 Firefly=Светлячок
-Firefly in a Bottle=Светлячок в Бутылке
-Hidden Firefly=Притаившийся Светлячок
+Firefly in a Bottle=Светлячок в бутылке
+Hidden Firefly=Притаившийся светлячок
 
 ### helper_functions.lua ###
 
-@1 Fence=
-@1 Fence Gate=
-@1 Fence Rail=
-@1 Mese Post Light=
-@1 Slab=
-@1 Stair=
-Double @1 Slab=
+@1 Fence=@1 забор
+@1 Fence Gate=@1 калитка
+@1 Fence Rail=@1 перила забора
+@1 Mese Post Light=@1 световой месе-столб
+@1 Slab=@1 (плита)
+@1 Stair=@1 (ступени)
+Double @1 Slab=@1 (двойная плита)
 
 ### misc.lua ###
 
-Icecap=
-Nethercap=
+Icecap=Ледяная шапка
+Nethercap=Незер-шапка

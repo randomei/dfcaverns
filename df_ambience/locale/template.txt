@@ -3,7 +3,7 @@
 
 ### init.lua ###
 
-Muted, no new sounds will start playing once current sounds finish=
+Muted, no new sounds will start playing once current sounds finish=Заглушено, новые звуки не начнутся, пока текиущие не закончатся
 
-Mutes or unmutes ambient sounds in deep caverns=
-Unmuted=
+Mutes or unmutes ambient sounds in deep caverns=Заглушает или включает звуки окружения в глубоких пещерах
+Unmuted=Звук включен

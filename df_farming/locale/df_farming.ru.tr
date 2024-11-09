@@ -1,0 +1,152 @@
+# textdomain: df_farming
+
+
+### cave_wheat.lua ###
+
+Cave Straw=пещерная солома
+Cave Wheat=пещерная пшеница
+Cave Wheat Flour=пещерная мука
+Cave Wheat Seed=семена пещерной пшеницы
+Dwarven Bread=дворфийский хлеб
+Flattened Cave Wheat=утоптанная пещерная пшеница
+
+### cooking.lua ###
+
+Cave Wheat Flour Biscuit=бисквит из пещерной муки
+Cave Wheat Flour Bun=булочка из пещерной пшеничной муки
+Cave Wheat Flour Pancake=блин из пещерной пшеничной муки
+Cave Wheat Seed Loaf=буханка из пещерных пшеничных семян
+Cave Wheat Seed Puffs=слойки из пещерных пшеничных семян
+Cave Wheat Seed Risotto=ризотто из пещерных пшеничных семян
+Dimple Cup Spore Flatbread=лепешка из спор ямной чашечки
+Dimple Cup Spore Roll=ролл из спор ямной чашечки
+Dimple Cup Spore Scone=булочка из спор ямной чашечки
+Dwarven Syrup Delight=дворфийский сироп - услада
+Dwarven Syrup Jellies=дворфийский сироп - желе
+Dwarven Syrup Taffy=дворфийский сироп - ириска
+Pig Tail Spore Casserole=запеканка из спор свинохвоста
+Pig Tail Spore Sandwich=сэндвич из спор свинохвоста
+Pig Tail Spore Tofu=тофу из спор свинохвоста
+Plump Helmet Mince=фарш из толстошлемника
+Plump Helmet Roast=жареный толстошлемник
+Plump Helmet Spawn Jambalaya=джамбалайя из грибницы толстошлемника
+Plump Helmet Spawn Soup=суп из грибницы толстошлемника
+Plump Helmet Sprout Stew=тушеный побег толстошлемника
+Plump Helmet Stalk Sausage=сосиска из стебля толстошлемника
+Quarry Bush Leaf Croissant=круассан из листьев карьерника
+Quarry Bush Leaf Spicy Bun=острая булочка из листьев карьерника
+Rock Nut Bread=хлеб из каменных орехов
+Rock Nut Cake=пирожное из каменных орехов
+Rock Nut Cookie=печенье из каменных орехов
+Stuffed Quarry Bush Leaf=фаршированный лист карьерника
+Sweet Pod Spore Brule=брюль из спор сладкого стручка
+Sweet Pod Spore Dumplings=дамплинги из спор сладкого стручка
+Sweet Pod Spore Single Crust Pie=пирожок из спор сладкого стручка с корочкой
+Sweet Pod Sugar Cookie=пироженое из сараха сладкого стручка
+Sweet Pod Sugar Gingerbread=печенье из сахара сладкого стручка
+Sweet Pod Sugar Roll=ролл из сахара сладкого стручка
+
+### dimple_cup.lua ###
+
+Dimple Cup=ямная чашечка
+Dimple Cup Spores=споры ямной чашечки
+
+### doc.lua ###
+
+A crafting item that can be woven into textiles and other similar items.=
+
+A meal made from the admixture of two ingredients, it keeps well but are not a rich source of nutrients.=
+
+A meal made from three ingredients mixed together. They're more wholesome, packing more nutrition into a single serving.=
+
+A rare breed of fungus from deep underground that produces a bushy cluster of rumpled gray 'blades'. The biological function of these blades is not known, as quarry bushes reproduce via hard-shelled nodules that grow down at the blade's base.=
+
+A species of lavender mushroom ubiquitous in caves that is most notable for the soft bioluminescence it produces.=
+
+Bread baked from cave wheat flour is tough and durable. A useful ration for long expeditions.=
+
+Cave wheat is literally a breed of grain-producing grass that somehow lost its ability to photosynthesize and adapted to a more fungal style of life.=
+
+Cave wheat seed ground into a powder suitable for cooking.=
+Crushing them in a bucket squeezes out a flavorful syrup.=
+
+Dead fungus quickly decays into an unrecognizable mess. It can be used as weak fuel or terrible decor.=
+
+Dimple cups can be dried, ground, and processed to extract a deep blue dye.=
+
+Four finely minced ingredients combine into a fine, full meal.=
+
+It's not tasty, but it keeps you going.=
+
+Like its surface cousin, cave wheat produces grain that can be ground into a form of flour.=
+
+Pig tail stalks can be processed to extract fibers useful as thread.=
+
+Pig tails are a fibrous fungal growth that's most notable for its twisting stalks. In a mature stand of pig tails the helical stalks intertwine into a dense mesh.=
+
+Plump helmets are a thick, fleshy mushroom that's edible picked straight from the ground. They form a staple diet for both lost cave explorers and the fauna that preys on them.=
+
+Quarry bush leaves and nodules (called 'rock nuts') can be harvested and are edible with processing.=
+
+Quarry bush leaves can be used as an ingredient in foodstuffs.=
+
+Sweet pod sugar has a pink tint to it.=
+Sweet pod syrup is thick and flavorful.=
+
+Sweet pods grow in rich soil, and once they reach maturity they draw that supply of nutrients up to concentrate it in their fruiting bodies. They turn bright red when ripe and can be processed in a variety of ways to extract the sugars they contain.=
+
+The distinctive midnight-blue caps of these mushrooms are inverted, exposing their gills to any breeze that might pass, and have dimpled edges that give them their name.=
+
+The dried blades of a quarry bush add a welcome zing to recipes containing otherwise-bland subterranean foodstuffs, but they're too spicy to be eaten on their own.=
+
+This mushroom is inedible but continues producing modest levels of light long after it's picked.=
+
+Threads of pig tail fiber.=
+
+Too strong and thick to drink straight, sweet pod syrup is useful in food recipes.=
+
+Too sweet to be eaten directly, it makes an excellent ingredient in food recipes.=
+
+Whatever this fungus was in life, it is now dead.=
+
+When baked alone it forms an edible bread, but it combines well with other more flavorful ingredients.=
+
+When dried in an oven, sweet pods produce a granular sugary substance.=
+
+When milled, sweet pods produce a granular sugary substance.=
+
+While they can be eaten fresh, they can be monotonous fare and are perhaps better appreciated as part of a more complex prepared dish.=
+
+
+### pig_tail.lua ###
+
+Flattened Pig Tail=сплющенный свинохвост
+Pig Tail=свинохвост
+Pig Tail Spore=споры свинохвоста
+Pig tail thread=нить из свинохвоста
+
+### plants.lua ###
+
+Cavern Fungi=пещерные грибы
+Dead Fungus=мертвый гриб
+
+### plump_helmet.lua ###
+
+Plump Helmet=толстошлемник
+Plump Helmet Spawn=грибница толстошлемника
+
+### quarry_bush.lua ###
+
+Quarry Bush=карьерник
+Quarry Bush Leaves=листья карьерника
+Rock Nuts=каменные орехи
+
+### sweet_pod.lua ###
+
+Dwarven Syrup Bucket=ведро дворфийского сиропа
+Dwarven Syrup Source=источник дворфийского сиропа
+Flowing Dwarven Syrup=текущий дворфийский сироп
+Sweet Pod=сладкий стручок
+Sweet Pod Spores=споры сладкого стручка
+Sweet Pod Sugar=сахар сладкого стручка
+Sweet Pods=сладкие стручки
